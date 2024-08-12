@@ -95,5 +95,5 @@ The verification and merging is performed using GitHub actions. The repository i
 [Layout file: EBeam_2024_07_15.oas](merge/EBeam_2024_07_15.oas)
 
 <!-- start-link -->
-https://github.com/SiEPIC/openEBL-2024-07-Si-Heaters/actions/runs/10000195016/artifacts/1717276066
+https://github.com/SiEPIC/openEBL-2024-07-Si-Heaters/actions/runs/10355948495/artifacts/1802806140
 <!-- end-link -->
